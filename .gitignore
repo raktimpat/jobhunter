@@ -1,0 +1,9 @@
+.env
+google_credentials.json
+data/master_resume.json
+cover_letters/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
